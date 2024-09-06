@@ -3,109 +3,109 @@ import { motion } from "framer-motion";
 const testimonials = [
     {
         text: "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention.",
-        imageSrc: "./src/assets/images/avatar-1.png",
+        imageSrc: "/images/avatar-1.png",
         name: "Jamie Rivera",
         username: "@jamietechguru00"
     },
     {
         text: "Our team's productivity has skyrocketed since we started using this tool. ",
-        imageSrc: "./src/assets/images/avatar-2.png",
+        imageSrc: "/images/avatar-2.png",
         name: "Josh Smith",
         username: "@jjsmith"
     },
     {
         text: "This app has completely transformed how I manage my projects and deadlines.",
-        imageSrc: "./src/assets/images/avatar-3.png",
+        imageSrc: "/images/avatar-3.png",
         name: "Morgan Lee",
         username: "@morganleewhiz"
     },
     {
         text: "I was amazed at how quickly we were able to integrate this app into our workflow.",
-        imageSrc: "./src/assets/images/avatar-4.png",
+        imageSrc: "/images/avatar-4.png",
         name: "Casey Jordan",
         username: "@caseyj"
     },
     {
         text: "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks.",
-        imageSrc: "./src/assets/images/avatar-5.png",
+        imageSrc: "/images/avatar-5.png",
         name: "Taylor Kim",
         username: "@taylorkimm"
     },
     {
         text: "The customizability and integration capabilities of this app are top-notch.",
-        imageSrc: "./src/assets/images/avatar-6.png",
+        imageSrc: "/images/avatar-6.png",
         name: "Riley Smith",
         username: "@rileysmith1"
     },
     {
         text: "Adopting this app for our team has streamlined our project management and improved communication across the board.",
-        imageSrc: "./src/assets/images/avatar-7.png",
+        imageSrc: "/images/avatar-7.png",
         name: "Jordan Patels",
         username: "@jpatelsdesign"
     },
     {
         text: "With this app, we can easily assign tasks, track progress, and manage documents all in one place.",
-        imageSrc: "./src/assets/images/avatar-8.png",
+        imageSrc: "/images/avatar-8.png",
         name: "Sam Dawson",
         username: "@dawsontechtips"
     },
     {
         text: "Its user-friendly interface and robust features support our diverse needs.",
-        imageSrc: "./src/assets/images/avatar-9.png",
+        imageSrc: "/images/avatar-9.png",
         name: "Casey Harper",
         username: "@casey09"
     },
     {
         text: "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention.",
-        imageSrc: "./src/assets/images/avatar-1.png",
+        imageSrc: "/images/avatar-1.png",
         name: "Jamie Rivera",
         username: "@jamietechguru00"
     },
     {
         text: "Our team's productivity has skyrocketed since we started using this tool. ",
-        imageSrc: "./src/assets/images/avatar-2.png",
+        imageSrc: "/images/avatar-2.png",
         name: "Josh Smith",
         username: "@jjsmith"
     },
     {
         text: "This app has completely transformed how I manage my projects and deadlines.",
-        imageSrc: "./src/assets/images/avatar-3.png",
+        imageSrc: "/images/avatar-3.png",
         name: "Morgan Lee",
         username: "@morganleewhiz"
     },
     {
         text: "I was amazed at how quickly we were able to integrate this app into our workflow.",
-        imageSrc: "./src/assets/images/avatar-4.png",
+        imageSrc: "/images/avatar-4.png",
         name: "Casey Jordan",
         username: "@caseyj"
     },
     {
         text: "Planning and executing events has never been easier. This app helps me keep track of all the moving parts, ensuring nothing slips through the cracks.",
-        imageSrc: "./src/assets/images/avatar-5.png",
+        imageSrc: "/images/avatar-5.png",
         name: "Taylor Kim",
         username: "@taylorkimm"
     },
     {
         text: "The customizability and integration capabilities of this app are top-notch.",
-        imageSrc: "./src/assets/images/avatar-6.png",
+        imageSrc: "/images/avatar-6.png",
         name: "Riley Smith",
         username: "@rileysmith1"
     },
     {
         text: "Adopting this app for our team has streamlined our project management and improved communication across the board.",
-        imageSrc: "./src/assets/images/avatar-7.png",
+        imageSrc: "/images/avatar-7.png",
         name: "Jordan Patels",
         username: "@jpatelsdesign"
     },
     {
         text: "With this app, we can easily assign tasks, track progress, and manage documents all in one place.",
-        imageSrc: "./src/assets/images/avatar-8.png",
+        imageSrc: "/images/avatar-8.png",
         name: "Sam Dawson",
         username: "@dawsontechtips"
     },
     {
         text: "Its user-friendly interface and robust features support our diverse needs.",
-        imageSrc: "./src/assets/images/avatar-9.png",
+        imageSrc: "/images/avatar-9.png",
         name: "Casey Harper",
         username: "@casey09"
     }
@@ -114,7 +114,7 @@ const testimonials = [
 const Testimonials = () => {
     return (
         <section className="bg-white pb-24">
-            <div className="container space-y-8">
+            <div className="contain">
                 <div className="flex justify-center items-center flex-col space-y-6">
                     <div className="border border-[#222]/20 inline-block px-3 py-1 rounded-lg text-sm tracking-tight">
                         Version 2.0 is here

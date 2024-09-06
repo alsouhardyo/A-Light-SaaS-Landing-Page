@@ -36,7 +36,7 @@ const CallToAction = () => {
                 </div>
                 <div>
                     <motion.img
-                        src="./src/assets/images/spring.png"
+                        src="/images/spring.png"
                         alt="image of the 3D spring"
                         className="hidden md:block absolute w-[360px] h-auto -right-[231px] lg:-right-[80px] -top-[19px]"
                         style={{
@@ -44,7 +44,7 @@ const CallToAction = () => {
                         }}
                     />
                     <motion.img
-                        src="./src/assets/images/star.png"
+                        src="/images/star.png"
                         alt="image of the 3D star"
                         className="hidden md:block absolute w-[360px] h-auto -left-[250px] lg:-left-[90px] -top-[137px]"
                         style={{

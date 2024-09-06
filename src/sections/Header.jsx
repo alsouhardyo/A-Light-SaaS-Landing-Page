@@ -19,12 +19,12 @@ const Header = () => {
             <div className="py-5">
                 <div className="flex items-center justify-between container">
                     <img
-                        src="./src/assets/images/logosaas.png"
+                        src="/images/logosaas.png"
                         alt="image of the SaaS logo"
                         className="w-10 h-10"
                     />
                     <img
-                        src="./src/assets/images/menu.svg"
+                        src="/images/menu.svg"
                         alt="image of the menu bar"
                         className="w-5 h-5 cursor-pointer md:hidden"
                     />

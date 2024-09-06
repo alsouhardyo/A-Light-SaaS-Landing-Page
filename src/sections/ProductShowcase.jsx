@@ -34,11 +34,11 @@ const ProductShowcase = () => {
                     </div>
                     <div className="relative">
                         <img
-                            src="./src/assets/images/product-image.png"
+                            src="/images/product-image.png"
                             alt="image of the product"
                         />
                         <motion.img
-                            src="./src/assets/images/tube.png"
+                            src="/images/tube.png"
                             alt="image of the tube"
                             className="hidden md:block absolute bottom-24 -left-36 h-[248px]"
                             style={{
@@ -46,7 +46,7 @@ const ProductShowcase = () => {
                             }}
                         />
                         <motion.img
-                            src="./src/assets/images/pyramid.png"
+                            src="/images/pyramid.png"
                             alt="image of the pyramid"
                             className="hidden md:block absolute -right-36 -top-32 h-[262px] w-[262px]"
                             style={{
