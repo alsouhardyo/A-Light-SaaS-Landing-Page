@@ -1,4 +1,4 @@
-import Button from "../components/button";
+import Button from "../components/Button";
 import { useRef } from "react";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { motion, useScroll, useTransform } from "framer-motion";

@@ -1,5 +1,5 @@
 import { FaArrowRightLong } from "react-icons/fa6";
-import Button from "../components/button";
+import Button from "../components/Button";
 const Header = () => {
     const navItems = ["About", "Features", "Customers", "Updates", "Help"];
     return (
