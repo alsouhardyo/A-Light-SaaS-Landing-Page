@@ -2,12 +2,12 @@ import { motion } from "framer-motion";
 
 const LogoTicker = () => {
     const logos = [
-        "./src/assets/images/logo-acme.png",
-        "./src/assets/images/logo-apex.png",
-        "./src/assets/images/logo-celestial.png",
-        "./src/assets/images/logo-echo.png",
-        "./src/assets/images/logo-pulse.png",
-        "./src/assets/images/logo-quantum.png"
+        "/images/logo-acme.png",
+        "/images/logo-apex.png",
+        "/images/logo-celestial.png",
+        "/images/logo-echo.png",
+        "/images/logo-pulse.png",
+        "/images/logo-quantum.png"
     ];
     return (
         <section className="py-8 bg-white md:py-12">

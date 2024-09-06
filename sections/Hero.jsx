@@ -41,7 +41,7 @@ const Hero = () => {
                     </div>
                     <div className="mt-20 md:mt-0 md:h-[648px] md:flex-1 relative">
                         <motion.img
-                            src="./src/assets/images/cog.png"
+                            src="/images/cog.png"
                             alt="image of the 3D cog"
                             className="md:absolute md:h-full md:w-auto md:max-w-none md:-left-6 lg:left-0"
                             animate={{
@@ -55,7 +55,7 @@ const Hero = () => {
                             }}
                         />
                         <motion.img
-                            src="./src/assets/images/cylinder.png"
+                            src="/images/cylinder.png"
                             alt="image of a 3d cylinder"
                             className="hidden md:block md:absolute w-[220px] h-[220px] -top-8 -left-32"
                             style={{
@@ -63,7 +63,7 @@ const Hero = () => {
                             }}
                         />
                         <motion.img
-                            src="./src/assets/images/noodle.png"
+                            src="/images/noodle.png"
                             alt="image of the 3D noodle"
                             className="hidden lg:block absolute top-[524px] left-[448px] w-[220px] rotate-[30deg]"
                             style={{

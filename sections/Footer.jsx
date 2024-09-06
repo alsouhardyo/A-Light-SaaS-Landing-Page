@@ -17,7 +17,7 @@ const Footer = () => {
                         }}
                     >
                         <img
-                            src="./src/assets/images/logoSaaS.png"
+                            src="/images/logosaas.png"
                             alt="image of the saas icon"
                             className="h-[40px]"
                             style={{
